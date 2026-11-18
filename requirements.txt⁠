@@ -1,0 +1,7 @@
+gradio
+rembg[cpu]
+onnxruntime
+opencv-python-headless
+pillow
+numpy
+faster-whisper
